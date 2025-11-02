@@ -1,0 +1,145 @@
+[
+  {
+    "country": {
+      "code": "mx",
+      "name": "México",
+      "locale": "es-MX",
+      "currency": "MXN"
+    },
+    "value": 18.75,
+    "behavior": {
+      "trend": 1,
+      "multiplier": 1.03
+    }
+  },
+  {
+    "country": {
+      "code": "co",
+      "name": "Colombia",
+      "locale": "es-CO",
+      "currency": "COP"
+    },
+    "value": 3955.00,
+    "behavior": {
+      "trend": 0,
+      "multiplier": 1.00
+    }
+  },
+  {
+    "country": {
+      "code": "ar",
+      "name": "Argentina",
+      "locale": "es-AR",
+      "currency": "ARS"
+    },
+    "value": 900.00,
+    "behavior": {
+      "trend": -1,
+      "multiplier": 0.97
+    }
+  },
+   {
+    "country": {
+      "code": "jp",
+      "name": "Japón",
+      "locale": "ja-JP",
+      "currency": "JPY"
+    },
+    "value": 157.45,
+    "behavior": {
+      "trend": 1,
+      "multiplier": 1.04
+    }
+  },
+  {
+    "country": {
+      "code": "gb",
+      "name": "Reino Unido",
+      "locale": "en-GB",
+      "currency": "GBP"
+    },
+    "value": 0.77,
+    "behavior": {
+      "trend": -1,
+      "multiplier": 0.95
+    }
+  },
+  {
+    "country": {
+      "code": "es",
+      "name": "España",
+      "locale": "es-ES",
+      "currency": "EUR"
+    },
+    "value": 0.91,
+    "behavior": {
+      "trend": 0,
+      "multiplier": 1.00
+    }
+  },
+  {
+    "country": {
+      "code": "pe",
+      "name": "Perú",
+      "locale": "es-PE",
+      "currency": "PEN"
+    },
+    "value": 3.73,
+    "behavior": {
+      "trend": 1,
+      "multiplier": 1.02
+    }
+  },
+  {
+    "country": {
+      "code": "br",
+      "name": "Brasil",
+      "locale": "pt-BR",
+      "currency": "BRL"
+    },
+    "value": 5.42,
+    "behavior": {
+      "trend": -1,
+      "multiplier": 0.98
+    }
+  },
+  {
+    "country": {
+      "code": "us",
+      "name": "Estados Unidos",
+      "locale": "en-US",
+      "currency": "USD"
+    },
+    "value": 1.00,
+    "behavior": {
+      "trend": 0,
+      "multiplier": 1.00
+    }
+  },
+  {
+    "country": {
+      "code": "cl",
+      "name": "Chile",
+      "locale": "es-CL",
+      "currency": "CLP"
+    },
+    "value": 941.00,
+    "behavior": {
+      "trend": 1,
+      "multiplier": 1.05
+    }
+  },
+  {
+    "country": {
+      "code": "cn",
+      "name": "China",
+      "locale": "zh-CN",
+      "currency": "CNY"
+    },
+    "value": 7.26,
+    "behavior": {
+      "trend": 0,
+      "multiplier": 1.00
+    }
+  }
+]
